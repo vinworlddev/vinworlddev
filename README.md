@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Desmond Vincent (a.k.a vinworld)
+# 👋 Hi, I'm Osueke Vincent (a.k.a vinworld)
 
 🎯 A passionate **Full-stack Web & Mobile Developer** from Nigeria 🇳🇬  
 I love building real-world apps using modern tools, clean code, and scalable architectures.
@@ -34,7 +34,7 @@ I love building real-world apps using modern tools, clean code, and scalable arc
 ## 📫 Let’s Connect
 
 - 📧 Email: `vinworldproject@gmail.com`
-- 🔗 LinkedIn: [Desmond Vincent](https://linkedin.com/in/vinworlddev)
+- 🔗 LinkedIn: [Osueke Vincent](https://linkedin.com/in/vinworlddev)
 - 🐦 Twitter: [@vinboy20](https://x.com/vinboy20)
 - 💼 Portfolio: Coming soon...
 
