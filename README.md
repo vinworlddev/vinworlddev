@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Desmond Vincent (a.k.a vinworld)
 
-<!--
-**vinworlddev/vinworlddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **Full-stack Web & Mobile Developer** from Nigeria 🇳🇬  
+I love building real-world apps using modern tools, clean code, and scalable architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Toolbox
+
+### 💻 Web Development
+- 🧠 **Laravel & Laravel API** (RESTful backend, E-commerce, Authentication)
+- ⚛️ **React.js** + Vite (Frontend SPAs & Dashboards)
+- 🌍 **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 🎨 Tailwind CSS, Bootstrap, Livewire
+
+### 📱 Mobile Development
+- 🧩 **Flutter** (GetX, Hive, Firebase Integration)
+- 💬 Real-time Chat & Escrow Workflows using **Appwrite**
+- 📲 Firebase Authentication, Cloud Firestore, Push Notifications
+
+### 🔧 Dev Tools & APIs
+- ⚙️ Git & GitHub, Postman, VS Code, Insomnia
+- 💳 Payment Integrations: Paystack, Flutterwave, Monnify
+- 🧪 Testing APIs & Webhooks using Ngrok/Postman
+
+---
+
+## 📊 GitHub Stats
+
+
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: `vincentdesmond20@gmail.com`
+- 🔗 LinkedIn: [Desmond Vincent](https://linkedin.com/in/vinworlddev)
+- 🐦 Twitter: [@vinboy20](https://x.com/vinboy20)
+- 💼 Portfolio: Coming soon...
+
+---
+
+> “Code is not just code. It’s a form of expression.” – Me 😎
+
