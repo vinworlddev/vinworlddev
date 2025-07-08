@@ -33,7 +33,7 @@ I love building real-world apps using modern tools, clean code, and scalable arc
 
 ## 📫 Let’s Connect
 
-- 📧 Email: `vincentdesmond20@gmail.com`
+- 📧 Email: `vinworldproject@gmail.com`
 - 🔗 LinkedIn: [Desmond Vincent](https://linkedin.com/in/vinworlddev)
 - 🐦 Twitter: [@vinboy20](https://x.com/vinboy20)
 - 💼 Portfolio: Coming soon...
