@@ -36,7 +36,7 @@ I love building real-world apps using modern tools, clean code, and scalable arc
 - 📧 Email: `vinworldproject@gmail.com`
 - 🔗 LinkedIn: [Osueke Vincent](https://linkedin.com/in/vinworlddev)
 - 🐦 Twitter: [@vinboy20](https://x.com/vinboy20)
-- 💼 Portfolio: Coming soon...
+- 💼 Portfolio: https://vinworlddev.netlify.app
 
 ---
 
