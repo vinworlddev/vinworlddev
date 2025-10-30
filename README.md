@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Osueke Vincent (a.k.a vinworld)
 
-🎯 A passionate **Full-stack Web & Mobile Developer** from Nigeria 🇳🇬  
+🎯 A passionate **Full-stack Web & Mobile App Developer** from Nigeria 🇳🇬  
 I love building real-world apps using modern tools, clean code, and scalable architectures.
 
 ---
