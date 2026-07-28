@@ -1,44 +1,140 @@
-# 👋 Hi, I'm Osueke Vincent (a.k.a vinworld)
+# 👋 Hi, I'm Osueke Vincent (aka **Vinworld**)
 
-🎯 A passionate **Full-stack Web & Mobile App Developer** from Nigeria 🇳🇬  
-I love building real-world apps using modern tools, clean code, and scalable architectures.
+🚀 **Full-Stack Software Engineer** from Nigeria 🇳🇬
 
----
+I design and build scalable web, mobile, and real-time applications that solve real-world problems.
 
-## 🚀 My Tech Toolbox
-
-### 💻 Web Development
-- 🧠 **Laravel & Laravel API** (RESTful backend, E-commerce, Authentication)
-- ⚛️ **React.js** + Vite (Frontend SPAs & Dashboards)
-- 🌍 **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🎨 Tailwind CSS, Bootstrap, Livewire
-
-### 📱 Mobile Development
-- 🧩 **Flutter** (GetX, Hive, Firebase Integration)
-- 💬 Real-time Chat & Escrow Workflows using **Appwrite**
-- 📲 Firebase Authentication, Cloud Firestore, Push Notifications
-
-### 🔧 Dev Tools & APIs
-- ⚙️ Git & GitHub, Postman, VS Code, Insomnia
-- 💳 Payment Integrations: Paystack, Flutterwave, Monnify
-- 🧪 Testing APIs & Webhooks using Ngrok/Postman
+My passion lies in creating products that feel fast, reliable, and intuitive—from social platforms and livestreaming systems to business applications and APIs. I enjoy working across the entire stack, from backend architecture and infrastructure to polished mobile experiences.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
+## 💻 Backend
 
+* **Node.js** (Express.js)
+* **Python** (FastAPI)
+* Laravel
+* REST APIs
+* JWT Authentication
+* HTTP-only Cookie Authentication
+* PostgreSQL
+* Redis
+* WebSockets
+* TypeORM
 
 ---
 
-## 📫 Let’s Connect
+## ⚛️ Frontend
 
-- 📧 Email: `vinworldproject@gmail.com`
-- 🔗 LinkedIn: [Osueke Vincent](https://linkedin.com/in/vinworlddev)
-- 🐦 Twitter: [@vinboy20](https://x.com/vinboy20)
-- 💼 Portfolio: https://vinworlddev.netlify.app
+* React
+* Next.js
+* Vite
+* Tailwind CSS
+* Bootstrap
 
 ---
 
-> “Code is not just code. It’s a form of expression.” – Me 😎
+## 📱 Mobile
 
+* Flutter
+* GetX
+* Hive
+* Firebase
+* Push Notifications
+* Real-time Chat
+* Live Streaming Integration
+
+---
+
+## ⚡ Real-time Systems
+
+I enjoy building applications that require low latency and real-time communication, including:
+
+* Live Streaming
+* Live Chat
+* PK Battles
+* Viewer Interactions
+* Presence Systems
+* Notifications
+* Real-time Feeds
+
+Technologies:
+
+* WebSockets
+* Redis Pub/Sub
+* LiveKit
+* Appwrite (where appropriate)
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+* Docker
+* Coolify
+* VPS Deployment
+* Nginx
+* Cloudflare
+* Git & GitHub
+* Linux Server Administration
+
+---
+
+## 💳 Integrations
+
+* Paystack
+* Flutterwave
+* Monnify
+* Firebase
+* Cloudinary
+* REST APIs
+* Webhooks
+
+---
+
+# 💡 What I'm Currently Exploring
+
+* FastAPI
+* Distributed Systems
+* Scalable Backend Architecture
+* High-concurrency Applications
+* Performance Optimization
+* AI-powered Applications
+
+---
+
+# 🚀 Current Focus
+
+I'm currently building high-performance social and livestreaming platforms inspired by apps like TikTok and Bigo, with features such as:
+
+* Live Streaming
+* Multi-host Rooms
+* PK Battles
+* Virtual Gifts
+* Real-time Messaging
+* Authentication Systems
+* Large-scale Backend Infrastructure
+
+---
+
+# 🌱 Vision
+
+I'm building **Vinworld** into more than a personal brand.
+
+My long-term vision is to create products that impact millions of users while building a technology hub that empowers developers and creators across my community.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** `contact@vinworld.com`
+
+🌐 **Portfolio:** https://vinworlddev.com
+
+💼 **LinkedIn:** https://linkedin.com/in/vinworlddev
+
+🐦 **X (Twitter):** https://x.com/vinworlddev
+
+---
+
+> *"Great software isn't just written—it is carefully engineered."*
